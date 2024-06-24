@@ -201,7 +201,7 @@ npm start
    pm2 startup systemd
    sudo env PATH=$PATH:/usr/bin pm2 startup systemd -u ubuntu --hp /home/ubuntu
    ```
-T
+
 ## Additional Information
 
 - **Deployed URL:** [http://43.205.42.95:3000]
