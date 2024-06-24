@@ -90,5 +90,5 @@ npm start
 
 ## Additional Information
 
-- **Frontend URL:** [http://43.205.42.95:3000]
+- **Deployed URL:** [http://43.205.42.95:3000]
 
