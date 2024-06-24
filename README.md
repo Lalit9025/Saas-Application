@@ -11,7 +11,7 @@ This project is a full-stack SaaS application for user registration, login, and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Lalit9025/Saas-Frontend.git
+   git clone [https://github.com/Lalit9025/Saas-Application.git]
    cd Saas-Frontend
    ```
 
