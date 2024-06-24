@@ -12,7 +12,7 @@ This project is a full-stack SaaS application for user registration, login, and 
 
    ```bash
    git clone [https://github.com/Lalit9025/Saas-Application.git]
-   cd Saas-Frontend
+   cd saas
    ```
 
 2. **Install dependencies:**
@@ -49,8 +49,8 @@ npm run build
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Lalit9025/Saas-Backend.git
-   cd Saas-Backend
+    git clone [https://github.com/Lalit9025/Saas-Application.git]
+   cd backend
    ```
 
 2. **Install dependencies:**
